@@ -8,3 +8,7 @@ sum = sum + j;
 System.out.println("The sum of first 10 natural numbers is " + sum);  
 }  
 }  
+hello
+
+
+
